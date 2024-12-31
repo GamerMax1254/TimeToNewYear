@@ -1,0 +1,10 @@
+C:\Users\Максим\source\repos\TimeToNewYear\TimeToNewYear\bin\Debug\TimeToNewYear.exe.config
+C:\Users\Максим\source\repos\TimeToNewYear\TimeToNewYear\bin\Debug\TimeToNewYear.exe
+C:\Users\Максим\source\repos\TimeToNewYear\TimeToNewYear\bin\Debug\TimeToNewYear.pdb
+C:\Users\Максим\source\repos\TimeToNewYear\TimeToNewYear\obj\Debug\TimeToNewYear.csproj.AssemblyReference.cache
+C:\Users\Максим\source\repos\TimeToNewYear\TimeToNewYear\obj\Debug\TimeToNewYear.Properties.Resources.resources
+C:\Users\Максим\source\repos\TimeToNewYear\TimeToNewYear\obj\Debug\TimeToNewYear.csproj.GenerateResource.cache
+C:\Users\Максим\source\repos\TimeToNewYear\TimeToNewYear\obj\Debug\TimeToNewYear.csproj.CoreCompileInputs.cache
+C:\Users\Максим\source\repos\TimeToNewYear\TimeToNewYear\obj\Debug\TimeToNewYear.exe
+C:\Users\Максим\source\repos\TimeToNewYear\TimeToNewYear\obj\Debug\TimeToNewYear.pdb
+C:\Users\Максим\source\repos\TimeToNewYear\TimeToNewYear\obj\Debug\CountdownToNewYear.Form1.resources
